@@ -22,7 +22,7 @@ Key Features of the ERP Management System:
 The ERP Management System aims to streamline administrative tasks and provide students with easy access to relevant information. By leveraging the capabilities of C++, the system ensures efficient data management and a user-friendly experience for both administrators and students.
 
 
-
+Project - 7
 
 ## Table of Contents
 - [Technology Used](#technologies)
